@@ -141,11 +141,13 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
+![mathserver terminal](https://github.com/STANLEY-13/MathServer/assets/148198816/7bdd618e-b34a-45ac-ada5-bea5017a8467)
 
-![alt text](<mathserver -1.png>)
+
 
 ## HOMEPAGE:
+![mathserver ](https://github.com/STANLEY-13/MathServer/assets/148198816/a88786dc-2d3c-4d3b-9344-27c924f50fc2)
 
-![alt text](<mathserver terminal-1.png>)
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
