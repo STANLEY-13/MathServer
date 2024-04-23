@@ -146,7 +146,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![mathserver ](https://github.com/STANLEY-13/MathServer/assets/148198816/a88786dc-2d3c-4d3b-9344-27c924f50fc2)
+![image](https://github.com/STANLEY-13/MathServer/assets/148198816/29ad6763-1a1e-4b34-8e3f-6b943f47cf22)
+
 
 
 ## RESULT:
